@@ -1,0 +1,21 @@
+#blue{
+	width: 200px;
+	height: 200px;
+	background: blue;
+	position: static;
+}
+
+#green{
+	width: 100px;
+	height: 100px;
+	background: green;
+	left: 50px;
+	top: 50px;
+	position: relative;
+}
+#black{
+	width: 50px;
+	height: 50px;
+	background: black;
+	position: absolute;
+}
